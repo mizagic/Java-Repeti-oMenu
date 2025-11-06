@@ -7,10 +7,7 @@ package repeticaomenu;
 import com.sun.source.tree.WhileLoopTree;
 import java.util.Scanner;
 
-/**
- *
- * @author operador
- */
+
 public class RepeticaoMenu {
 
     public static void main(String[] args) {
